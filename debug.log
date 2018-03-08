@@ -6,3 +6,27 @@
 [0308/153006.997:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
 [0308/153007.007:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
 [0308/153007.073:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/153613.396:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153613.400:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/153613.404:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153613.467:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/153620.734:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153620.740:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/153620.743:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153620.806:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/153719.559:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153719.559:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/153719.575:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153719.619:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/153748.704:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153748.708:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/153748.711:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153748.757:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/153802.026:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153802.031:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/153802.034:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153802.094:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/153808.548:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153808.554:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0308/153808.557:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0308/153808.625:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
